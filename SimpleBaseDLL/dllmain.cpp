@@ -13,7 +13,7 @@ BOOL APIENTRY DllMain(HANDLE hInst, DWORD dwReason, LPVOID lpReserved)
 {
 	// Declare 2 strings title and caption
 	wchar_t const *title = L"DLL Injected";
-	wchar_t const *caption = L"Simple WallHack by KkK1337";
+	wchar_t const *caption = L"Wallhack by Ferreiralux";
 	
 
 	if (dwReason == DLL_PROCESS_ATTACH)
